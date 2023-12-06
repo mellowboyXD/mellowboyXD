@@ -1,6 +1,6 @@
 # `print("hello world!")`
 
-<img align="center" alt="GIF" src="./images/coding.gif" width="100%" height="120" />
+<img align="center" alt="GIF" src="./images/coding.gif" width="100%" height="150" />
 
 Hi, i'm _`Ishfaq Chamerally`_, a passionate self-taught developer. My passion for software lies with dreaming up ideas and making them come to life with **elegant** interfaces. I take great care in the experience, architecture, and **code quality** of the things I developed.
 
