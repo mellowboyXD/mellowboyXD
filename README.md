@@ -18,7 +18,7 @@ I am also a big fan of systems programming and understanding how the computer do
 
 ## 📈 My Github Stats
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ishfaq253951&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mellowboyXD&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
