@@ -3,7 +3,8 @@
 <img align="center" alt="GIF" src="./images/coding.gif" width="100%" height="275" />
 
 Hi, i'm _`mellowboy`_ - author of this github page and I am a big fan of systems programming and everything low-level. 
-My favourite operating system is Linux and I currently daily drive a fedora operating system.
+
+My favourite operating system is Linux and I currently daily drive fedora.
 
 ## Tools and Languages I Mostly Use
 
