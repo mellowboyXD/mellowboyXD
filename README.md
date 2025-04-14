@@ -4,7 +4,7 @@
 
 Hi, i'm _`mellowboy`_ - author of this github page and I am a big fan of systems programming and everything low-level. 
 
-My favourite operating system is Linux and I currently daily drive fedora.
+I currently daily drive fedora and I play minecraft when I'm bored.
 
 ## Tools and Languages I Mostly Use
 
