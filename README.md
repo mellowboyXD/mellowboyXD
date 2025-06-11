@@ -2,7 +2,7 @@
 
 <img align="center" alt="GIF" src="./images/coding.gif" width="100%" height="275" />
 
-Hi, i'm _`mellowboy`_ - author of this github page and I am a big fan of systems programming and everything low-level. 
+Hi, i'm _`mellowboy`_ - author of this github page and I am a big fan of systems programming and everything low-level/backend. 
 
 I currently daily drive fedora and I play minecraft when I'm bored.
 
@@ -11,6 +11,8 @@ I currently daily drive fedora and I play minecraft when I'm bored.
 - C
 - Python
 - JavaScript
+- C#/.NET
+- Php
 - Git
 
 ## My Github Stats
