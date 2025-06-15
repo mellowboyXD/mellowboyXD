@@ -20,7 +20,7 @@ I currently daily drive fedora and I play minecraft when I'm bored.
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mellowboyXD&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 >
->  *Simplicity is the ultimate sophistication.* - Steve Jobs
+>  *Simplicity is the ultimate sophistication.* - Leonardo DaVinci
 >
 
 I use Vim, btw ❤️
