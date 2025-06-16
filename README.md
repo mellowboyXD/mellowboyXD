@@ -10,8 +10,7 @@ I currently daily drive fedora and I play minecraft when I'm bored.
 
 - C
 - Python
-- JavaScript
-- C#/.NET
+- JavaScript/Typescript
 - Php
 - Git
 
