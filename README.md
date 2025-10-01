@@ -1,4 +1,4 @@
-# `print("hello world!")`
+# `printf("hello world!");`
 
 <img align="center" alt="GIF" src="./images/coding.gif" width="100%" height="275" />
 
@@ -9,8 +9,9 @@ I currently daily drive fedora and I play minecraft when I'm bored.
 ## Tools and Languages I Mostly Use
 
 - C
+- Java
 - Python
-- JavaScript/Typescript
+- JavaScript
 - Php
 - Git
 
@@ -23,3 +24,4 @@ I currently daily drive fedora and I play minecraft when I'm bored.
 >
 
 I use Vim, btw ❤️
+
