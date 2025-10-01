@@ -1,10 +1,11 @@
-# `printf("hello world!");`
+# `printf("hello world!\n");`
 
 <img align="center" alt="GIF" src="./images/coding.gif" width="100%" height="275" />
 
-Hi, i'm _`mellowboy`_ - author of this github page and I am a big fan of systems programming and everything low-level/backend. 
+Hi, i'm _`mellowboy`_ - author of this github page and I am a big fan of systems programming and everything low-level/backend.
+I'm currently dipping my toes into game development.
 
-I currently daily drive fedora and I play minecraft when I'm bored.
+I daily drive fedora and I play some games when I'm bored.
 
 ## Tools and Languages I Mostly Use
 
@@ -24,4 +25,5 @@ I currently daily drive fedora and I play minecraft when I'm bored.
 >
 
 I use Vim, btw ❤️
+
 
