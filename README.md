@@ -5,15 +5,14 @@
 Hi, i'm _`mellowboy`_ - author of this github page and I am a big fan of systems programming and everything low-level/backend.
 I'm currently dipping my toes into game development.
 
-I daily drive fedora and I play some games when I'm bored.
+I used to dual boot fedora until a windows update blew up my drive.
 
 ## Tools and Languages I Mostly Use
 
 - C
 - Java
 - Python
-- JavaScript
-- Php
+- JavaScript/TypeScript
 - Git
 
 >
